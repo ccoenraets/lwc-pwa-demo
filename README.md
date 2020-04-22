@@ -21,11 +21,11 @@ Check out [this blog post](http://developer.salesforce.com/blogs/2020/04/how-to-
 
 1. Build the application
     ```
-    npm run buid:development
+    npm run build:development
     ``` 
     or (production build):
     ```
-    npm run buid
+    npm run build
     ``` 
 
 1. Start the server
