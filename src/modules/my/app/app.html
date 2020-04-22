@@ -1,0 +1,11 @@
+<template>
+    <div class="content">
+        <h1>Recent Contacts</h1>
+        <template for:each={contacts} for:item="contact">
+            <div key={contact.id} class="contact">
+                <p>{contact.firstName} {contact.lastName}</p>
+                <p>{contact.phone}</p>
+            </div>
+        </template>
+    </div>
+</template>

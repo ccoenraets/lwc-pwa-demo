@@ -1,0 +1,18 @@
+p {
+    margin: 0;
+}
+
+.content {
+    font-family: 'Open Sans', sans-serif;
+    color: #3e3e3c;
+    margin: 20px;
+}
+
+.contact {
+    padding: 8px;
+    border-bottom: solid 1px #EEE;
+}
+
+.contact:hover {
+    background-color: #d8edff;
+}
