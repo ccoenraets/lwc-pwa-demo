@@ -19,6 +19,15 @@ Check out [this blog post](http://developer.salesforce.com/blogs/2020/04/how-to-
     npm install
     ```
 
+1. Build the application
+    ```
+    npm run buid:development
+    ``` 
+    or (production build):
+    ```
+    npm run buid
+    ``` 
+
 1. Start the server
     ```
     node server
@@ -27,16 +36,3 @@ Check out [this blog post](http://developer.salesforce.com/blogs/2020/04/how-to-
 1. Access the application at [http://localhost:3001](http://localhost:3001)
 
 Follow the steps in [this blog post](http://developer.salesforce.com/blogs/2020/04/how-to-pwa-offline-lwc.html) to work offline and install the application on your desktop.
-
-
-## Building the Application
-
-- Development:
-    ```
-    npm run buid:development
-    ```
-
-- Production:
-    ```
-    npm run buid
-    ```
