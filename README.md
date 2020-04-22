@@ -1,4 +1,4 @@
-# PWA Sample App with Lightning Web Components and Workbox
+# PWA with Lightning Web Components and Workbox
 
 Sample application showing a Progressive Web App (PWA) built with [Lightning Web Components](https://lwc.dev) and the [Workbox](https://developers.google.com/web/tools/workbox) toolkit.
 
@@ -10,7 +10,8 @@ Check out [this blog post](http://developer.salesforce.com/blogs/2020/04/how-to-
 
 1. Clone this repository
     ```
-    git clone
+    git clone https://github.com/ccoenraets/lwc-pwa-demo
+    cd lwc-pwa-demo
     ```
 
 1. Install the dependencies
