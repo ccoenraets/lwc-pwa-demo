@@ -6,7 +6,7 @@
     "bugs": "https://github.com/Christophe Coenraets/pwa-demo/issues",
     "dependencies": {
         "compression": "^1.7.4",
-        "express": "^4.17.1"
+        "express": "^4.17.3"
     },
     "devDependencies": {
         "eslint": "^6.8.0",
